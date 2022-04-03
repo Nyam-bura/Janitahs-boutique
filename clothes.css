@@ -1,0 +1,26 @@
+body {
+    background-image: url('https://static-cse.canva.com/blob/572639/1.magebyRodionKutsaevviaUnsplash.3f13ce82.avif');
+    background-size:cover;
+    font: size 12px;
+}
+#clothes{
+    display:flex;
+    flex-direction:row;
+    justify-content:space-between;
+ }
+ nav {
+     text-align: right to left;
+ }
+ img{
+    height: 250px;
+    width: 150px;
+    padding: 10px;
+    display: flex;
+    flex-direction:row;
+}
+.wear{
+    display: flex;
+}
+button {
+    background-color: rgb(0, 255, 136);
+}
